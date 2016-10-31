@@ -1,0 +1,23 @@
+{
+  "name": "vue_lab",
+  "version": "1.0.0",
+  "description": "This is a starting point to patch the existing probe overview in our lab",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkschmidt/vue_lab.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tkschmidt/vue_lab/issues"
+  },
+  "homepage": "https://github.com/tkschmidt/vue_lab#readme"
+}
